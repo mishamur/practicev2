@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+g:\ready pr\pr\pr\myform.h(384): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  pr.vcxproj -> G:\ready pr\pr\Debug\pr.exe
